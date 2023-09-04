@@ -103,8 +103,11 @@ body {
       width: 4rem;
     }
     .mainContainer{
+      max-width: 350px;
       padding: 0.5rem;
+      text-align: justify;
     }
+  
   }
 
 .remove {
