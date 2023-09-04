@@ -105,6 +105,9 @@ body {
     .mainContainer{
       padding: 0.5rem;
     }
+    .mainContainer p{
+      font-size: 0.9rem;
+    }
   }
 
 .remove {
